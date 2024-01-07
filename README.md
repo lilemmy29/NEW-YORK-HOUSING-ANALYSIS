@@ -3,7 +3,7 @@
 This repository contains a comprehensive analysis of the New York Housing Market, offering valuable insights into the factors influencing house prices in the region. The analysis utilizes a regression model to explore relationships between various features and property prices.
 
 ## Dataset
-The dataset used for this analysis is sourced from Kaggle and includes information such as broker titles, house types, prices, bedroom and bathroom counts, property square footage, addresses, state, administrative and local areas, street names, and geographical coordinates. You can access the dataset here.
+The dataset used for this analysis is sourced from Kaggle and includes information such as broker titles, house types, prices, bedroom and bathroom counts, property square footage, addresses, state, administrative and local areas, street names, and geographical coordinates. 
 
 ## Analysis Highlights
 ### Model Summary
